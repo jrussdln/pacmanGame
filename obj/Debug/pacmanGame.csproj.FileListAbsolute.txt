@@ -1,0 +1,14 @@
+c:\users\hp\documents\visual studio 2013\Projects\pacmanGame\pacmanGame\bin\Debug\pacmanGame.exe.config
+c:\users\hp\documents\visual studio 2013\Projects\pacmanGame\pacmanGame\bin\Debug\pacmanGame.exe
+c:\users\hp\documents\visual studio 2013\Projects\pacmanGame\pacmanGame\bin\Debug\pacmanGame.pdb
+c:\users\hp\documents\visual studio 2013\Projects\pacmanGame\pacmanGame\obj\Debug\pacmanGame.Form1.resources
+c:\users\hp\documents\visual studio 2013\Projects\pacmanGame\pacmanGame\obj\Debug\pacmanGame.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2013\Projects\pacmanGame\pacmanGame\obj\Debug\pacmanGame.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2013\Projects\pacmanGame\pacmanGame\obj\Debug\pacmanGame.exe
+c:\users\hp\documents\visual studio 2013\Projects\pacmanGame\pacmanGame\obj\Debug\pacmanGame.pdb
+c:\users\hp\documents\visual studio 2013\Projects\pacmanGame\pacmanGame\obj\Debug\Interop.MediaPlayer.dll
+c:\users\hp\documents\visual studio 2013\Projects\pacmanGame\pacmanGame\obj\Debug\Interop.WMPLib.dll
+c:\users\hp\documents\visual studio 2013\Projects\pacmanGame\pacmanGame\obj\Debug\pacmanGame.csproj.ResolveComReference.cache
+c:\users\hp\documents\visual studio 2013\Projects\pacmanGame\pacmanGame\obj\Debug\pacmanGame.main.resources
+c:\users\hp\documents\visual studio 2013\Projects\pacmanGame\pacmanGame\obj\Debug\pacmanGame.game.resources
+c:\users\hp\documents\visual studio 2013\Projects\pacmanGame\pacmanGame\obj\Debug\pacmanGame.csprojResolveAssemblyReference.cache
